@@ -1,0 +1,30 @@
+#exemplo{
+    width: 200px;
+    height: 200px;
+    margin: 20px;
+    border: #ccc;
+}
+
+.verde{
+    background-color: #00ff00;
+    color: #000;
+}
+.vermelho{
+    background-color: #ff0000;
+}
+.azul{
+    background-color: #0000ff;
+    color: #fff;
+}
+
+.demo{
+    display: block;
+    
+}
+
+
+
+#imgt{
+    
+    display: block;
+}
